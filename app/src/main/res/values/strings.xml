@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">NusaTour</string>
+    <string name="tentang">Tentang</string>
+    <string name="name">Eugene Feilian Putra Rangga</string>
+    <string name="email">eugenefeilianputrarangga@gmail.com</string>
+    <string name="my_photo">https://lh3.googleusercontent.com/pw/ADCreHe2Ny_mcpoVwpuYf9lwxmxicuEjqhapla4kYVhVFBkIusc1HDqAtEMiHoSnkrBPnpAgP-xoYsOmCWYIxOmF8lrrFUd_CPBffD4M8-lejrNviryktSKN95flR2ZG3xNfiPSnzcv_X8I9d02QkzYlwlhKGg=w593-h790-s-no?authuser=0</string>
+
+    <string-array name="tourist_photos">
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Indonesia_-_Lake_Toba_%2826224127503%29.jpg/300px-Indonesia_-_Lake_Toba_%2826224127503%29.jpg</item>
+        <item>https://asset.kompas.com/crops/rS9Tx0RWoTT3iKohMEX0PMcmJbM=/0x0:750x500/750x500/data/photo/2022/02/24/6216f993c35a0.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/7/77/Stupa_Borobudur.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Mount_Bromo_at_sunrise%2C_showing_its_volcanoes_and_Mount_Semeru_%28background%29.jpg/280px-Mount_Bromo_at_sunrise%2C_showing_its_volcanoes_and_Mount_Semeru_%28background%29.jpg</item>
+        <item>https://akcdn.detik.net.id/community/media/visual/2019/06/12/afaef7fb-f880-4458-a617-d4c49f060830_169.jpeg?w=620</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Wakatobi_beach_2006.jpg/1280px-Wakatobi_beach_2006.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/a/a1/Raja_Ampat_Islands_-_journal.pbio.1001457.g001.png</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Air_Terjun_Tumpak_Sewu.jpg/800px-Air_Terjun_Tumpak_Sewu.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cukang_Taneuh_%28Green_Canyon%29_-_Cijulang%2C_Ciamis%2C_Indonesia.jpg/240px-Cukang_Taneuh_%28Green_Canyon%29_-_Cijulang%2C_Ciamis%2C_Indonesia.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Bali_Barat_mangroves.jpg/1280px-Bali_Barat_mangroves.jpg</item>
+    </string-array>
+
+    <string-array name="tour_name">
+        <item>Danau Toba</item>
+        <item>Taman Nasional Tanjung Puting</item>
+        <item>Candi Borobudur</item>
+        <item>Gunung Bromo</item>
+        <item>Labuan Bajo</item>
+        <item>Kabupaten Wakatobi</item>
+        <item>Kepulauan Raja Ampat</item>
+        <item>Air Terjun Tumpak Sewu</item>
+        <item>Cukang Taneuh</item>
+        <item>Taman Nasional Bali Barat</item>
+    </string-array>
+
+    <string-array name="tour_description">
+        <item>Danau Toba adalah danau alami berukuran besar di Indonesia yang berada di kaldera gunung supervulkan. Danau ini memiliki panjang 100 kilometer, lebar 30 kilometer, dan kedalaman 508 meter. Danau ini terletak di tengah pulau Sumatra bagian utara dengan ketinggian permukaan sekitar 900 meter.</item>
+        <item>Taman Nasional Tanjung Puting terletak di pulau Kalimantan di provinsi Kalimantan Tengah, Indonesia. Taman ini adalah tujuan ekowisata yang populer, dengan banyak perusahaan tur lokal menawarkan tur perahu beberapa hari untuk melihat satwa liar dan mengunjungi pusat penelitian.</item>
+        <item>Candi Borobudur adalah sebuah candi Buddha yang terletak di Borobudur, Magelang, Jawa Tengah, Indonesia. Candi ini terletak kurang lebih 100 km di sebelah barat daya Semarang, 86 km di sebelah barat Surakarta, dan 40 km di sebelah barat laut Yogyakarta. Candi dengan banyak stupa ini didirikan oleh para penganut agama Buddha Mahayana sekitar tahun 800-an Masehi pada masa pemerintahan wangsa Syailendra. Borobudur adalah candi atau kuil Buddha terbesar di dunia,[1][2] sekaligus salah satu monumen Buddha terbesar di dunia</item>
+        <item>Gunung Bromo atau dalam bahasa Tengger dieja "Brama", juga disebut Kaldera Tengger, adalah sebuah gunung berapi aktif di Jawa Timur, Indonesia. Gunung ini memiliki ketinggian 2.329 meter di atas permukaan laut dan berada dalam empat wilayah kabupaten, yakni Kabupaten Probolinggo, Kabupaten Pasuruan, Kabupaten Lumajang, dan Kabupaten Malang. Gunung Bromo terkenal sebagai objek wisata utama di Jawa Timur. Sebagai sebuah objek wisata, Bromo menjadi menarik karena statusnya sebagai gunung berapi yang masih aktif. Gunung Bromo termasuk dalam kawasan Taman Nasional Bromo Tengger Semeru.</item>
+        <item>Labuan Bajo merupakan salah satu kelurahan yang berada di kecamatan Komodo, Kabupaten Manggarai Barat, provinsi Nusa Tenggara Timur, Indonesia. Kota Labuan Bajo juga merupakan ibu kota dari kecamatan Kecamatan Komodo dan ibu kota Kabupaten Manggarai Barat. Sedang diwacanakan pengembangan Kota Labuan Bajo.</item>
+        <item>Kabupaten Wakatobi adalah salah satu kabupaten di provinsi Sulawesi Tenggara, Indonesia. Ibu kota kabupaten ini terletak di kecamatan Wangi-Wangi, dibentuk berdasarkan Undang-undang Republik Indonesia Nomor 29 Tahun 2003, tanggal 18 Desember 2003.</item>
+        <item>Kepulauan Raja Ampat adalah gugusan kepulauan yang berlokasi di barat bagian Semenanjung Kepala Burung Pulau Papua. Secara administrasi, gugusan ini berada di bawah Kabupaten Raja Ampat dan Kota Sorong, Provinsi Papua Barat Daya.</item>
+        <item>Air Terjun Tumpak Sewu atau disebut juga Coban Sewu adalah sebuah air terjun berketinggian sekitar 120 meter. Air terjun ini berbatasan dengan Kabupaten Lumajang dan Kabupaten Malang, Provinsi Jawa Timur. Air Terjun Tumpak Sewu memiliki aliran air yang menyerupai tirai sehingga termasuk dalam tipe air terjun Tiered.</item>
+        <item>Cukang Taneuh atau Green Canyon adalah salah satu objek wisata di Jawa Barat yang terletak di Desa Kertayasa Kecamatan Cijulang, Kabupaten Pangandaran. Objek wisata ini berjarak ± 31 km dari Pangandaran.</item>
+        <item>Taman Nasional Bali Barat terletak di bagian barat dari Pulau Bali dengan luas 77.000 hektar atau kira-kira 10% dari luas daratan Pulau Bali. Taman Nasional ini merupakan kawasan konservasi yang memiliki keanekaragaman hayati terestrial maupun laut. Sekitar 160 spesies hewan dan tumbuhan dilindungi berada di taman nasional ini, termasuk banteng, rusa, lutung, kalong dan aneka burung1. Kawasan ini juga merupakan habitat asli satwa endemik yang menjadi ikon Pulau Bali yaitu burung Jalak Bali (Leucopsar rothschildi).</item>
+    </string-array>
+
+    <string-array name="tour_price">
+        <item>Rp 5.000 - Rp 10.000</item>
+        <item>Rp 5.000 - Rp 7.500</item>
+        <item>Rp 24.000 - Rp 48.000</item>
+        <item>Rp 29.000 - Rp 34.000</item>
+        <item>Rp 1.450.000 - Rp 3.450.000</item>
+        <item>Rp 160.000</item>
+        <item>Rp 500.000</item>
+        <item>Rp 10.000</item>
+        <item>Rp 15.000</item>
+        <item>Rp 2.500</item>
+    </string-array>
+
+    <string name="foto_pariwisata">Foto Pariwisata</string>
+    <string name="bagikan">Bagikan</string>
+</resources>
